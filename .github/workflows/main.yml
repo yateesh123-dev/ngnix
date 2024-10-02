@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  ECR_REPOSITORY: nginx
+  ECR_REPOSITORY: ngnix
   EKS_CLUSTER_NAME: my-cluster1
   AWS_REGION: ap-south-1
 
